@@ -7,7 +7,7 @@ export default function Home ({navigation}) {
     return (
 		<View style={styles.container}>
 			<StatusBar backgroundColor='#242424' barStyle="white-content" />
-
+                
 			<Text style={styles.text}>Home</Text>
 		</View>
 	)

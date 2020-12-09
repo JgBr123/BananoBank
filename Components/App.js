@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {View, BackHandler} from 'react-native';
+import {View} from 'react-native';
 import { NavigationContainer } from '@react-navigation/native'
 import { createStackNavigator } from '@react-navigation/stack'
 
